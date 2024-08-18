@@ -4,5 +4,5 @@ Installation
 3. Run "Space Pong.exe"
 
 Controls
-left arrow key -> move to the left
-right arrrow key -> move to the right
+- left arrow key -> move to the left
+- right arrrow key -> move to the right
